@@ -4,11 +4,11 @@ Bem-vindo à organização da **Tommasi Ambiental** no GitHub!
 
 ## Sobre
 
-A Tommasi Ambiental é uma empresa especializada em soluções ambientais. Este espaço reúne nossos projetos de **Pesquisa e Desenvolvimento (P&D)**, onde desenvolvemos tecnologias e ferramentas inovadoras para questões ambientais.
+A Tommasi Ambiental é uma empresa especializada em soluções ambientais. Este espaço é dedicado ao desenvolvimento de projetos de **Pesquisa e Desenvolvimento (P&D)**, onde criamos tecnologias e ferramentas inovadoras para questões ambientais.
 
 ## Projetos de P&D
 
-Explore nossos repositórios para conhecer as soluções que estamos desenvolvendo. Nossos projetos abrangem áreas como:
+Nossos projetos abrangem áreas como:
 
 - Monitoramento ambiental
 - Análise de dados ambientais
@@ -17,11 +17,7 @@ Explore nossos repositórios para conhecer as soluções que estamos desenvolven
 
 ## Saiba Mais
 
-- **Website:** [tommasiambiental.com.br](https://tommasiambiental.com.br/)
-
-## Contato
-
-Para mais informações sobre nossos serviços e projetos, visite nosso site ou entre em contato através dos canais disponíveis em [tommasiambiental.com.br](https://tommasiambiental.com.br/).
+Para mais informações sobre nossos serviços, visite nosso site: [tommasiambiental.com.br](https://tommasiambiental.com.br/)
 
 ---
 

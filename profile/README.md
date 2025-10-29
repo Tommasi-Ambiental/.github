@@ -18,7 +18,6 @@ Explore nossos repositórios para conhecer as soluções que estamos desenvolven
 ## Saiba Mais
 
 - **Website:** [tommasiambiental.com.br](https://tommasiambiental.com.br/)
-- **Repositórios:** Navegue pelos nossos projetos públicos abaixo
 
 ## Contato
 
